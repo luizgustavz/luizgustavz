@@ -2,9 +2,9 @@
 ### Estudante de Análise e desenvolvimento de Sistemas | Java 
 
 ## Sobre mim 
-Olá! Sou estudante de Desenvolvimento de Sistemas e emocionalmente dependente do IntelliJ. Tenho experiências com a linguagem Java e o ecossistema Spring (**SpringBoot**, **Spring Data JPA**, **Spring Security**) com objetivo de desenvolver sistemas escaláveis e seguros. Nos tempos livres, assisto muito vídeo sobre robótica com Java e jogo xadrez :)
+Olá! Sou estudante de Desenvolvimento de Sistemas e emocionalmente dependente do IntelliJ. Tenho experiência com a linguagem Java e o ecossistema Spring (**SpringBoot**, **Spring Data JPA**, **Spring Security**) com objetivo de desenvolver sistemas escaláveis e seguros. No tempo livres, assisto muito vídeo sobre robótica com Java e jogo xadrez :)
 
-## Tecnologias que utilizo
+## Stack de tecnologias
 #### Linguagens
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@ Olá! Sou estudante de Desenvolvimento de Sistemas e emocionalmente dependente d
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Outros 
+## Outros 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) <br>
 https://leetcode.com/u/luizz4j
 
