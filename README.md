@@ -1,38 +1,42 @@
-# Olá, eu sou Luiz 
-### Estudante de Análise e desenvolvimento de Sistemas | Java 
+# Luiz S.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgustavz/)
 
-## Sobre mim 
-Olá! Sou estudante de Desenvolvimento de Sistemas e emocionalmente dependente do IntelliJ. Tenho experiência com a linguagem Java e o ecossistema Spring (**SpringBoot**, **Spring Data JPA**, **Spring Security**) com objetivo de desenvolver sistemas escaláveis e seguros. No tempo livres, assisto muito vídeo sobre robótica com Java e jogo xadrez :)
+Estudante de Análise e Desenvolvimento de Sistemas  
+**Java | Spring | Quarkus**
 
-## Stack de tecnologias
-#### Linguagens
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Sobre mim
 
-#### Frameworks e Bibliotecas
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e seu ecossistema. Tenho interesse em construir aplicações escaláveis, seguras e bem estruturadas, aplicando boas práticas de código e arquitetura.
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+Atualmente, concentro meus estudos em frameworks Java modernos e em ferramentas que apoiam o desenvolvimento e a entrega de aplicações.
 
-#### Base de dados 
+---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tecnologias & Ferramentas
 
-## Outros 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) <br>
-https://leetcode.com/u/luizz4j
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) <br>
-https://medium.com/@luizz4j
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) <br>
-https://substack.com/@luizz4j
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
-
-
-
-
-
+## Atualmente estudando
+- Desenvolvimento de APIs REST com Java
+- Desenvolvimento de aplicações distribuidas
+- Boas práticas e arquitetura com Spring Boot
+- Containerização de aplicações com Docker
